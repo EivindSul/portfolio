@@ -3,7 +3,7 @@ This is a collection of work that I have done throughout my studies, as well as 
 
 ## Private projects
 Intbar bonger is a project to create simple coupons for pre-paid drinks at the
-par I work at.  The coupons have a set of requirements of how to customize them,
+par I worked at.  The coupons have a set of requirements of how to customize them,
 including price and expiration.  This program replaces an older similar system
 made by a previous student using Java, but that program was impossible to
 maintain. I focused on making my version easily maintainable and extensible.
@@ -33,4 +33,3 @@ I enjoy terminal utilities and Linux.
 Here are my dotfiles and configurations in case you are interested.
 
 - [All dotfiles](https://github.com/EivindSul/dotfiles)
-- [Neovim](https://github.com/EivindSul/neovim-dots)
